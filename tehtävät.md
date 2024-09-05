@@ -125,10 +125,12 @@ where screen_name = "Heini" and game.id = game_id and goal.id = goal_id;
 
 
 ### Tehtävä 9
-select country.name as "country name", airport.name as "airport name"
-from airport
-inner join country on airport.iso_country = country.iso_country
-where country.name = "Finland" and scheduled_service = "yes";
+select airport.name
+from goal, goal_reached, game, airport
+where screen_name = "Ilkka"
+and goal.name = "clouds"
+and game.id = game_id and goal.id = goal_id
+and game.location = airport.ident;
 ![Screenshot 2024-09-05 104133](https://github.com/user-attachments/assets/1cf60108-4996-4ee2-92f2-90439504defe)
 
 ### Tehtävä 10
