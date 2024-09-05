@@ -33,34 +33,34 @@ order by type, name asc;
 ### Tehtävä 5
 select name
 from country
-where name like "%F%";
+where name like "F%";
 ![Screenshot 2024-09-05 095334](https://github.com/user-attachments/assets/a53c2ba2-8a58-49e4-86dd-bab6374dc364)
 
 
 ### Tehtävä 6
-select location
-from game
-where screen_name = "vesa";
+select name
+from country
+where name like "%F%";
 ![Screenshot 2024-09-05 095433](https://github.com/user-attachments/assets/0b3b1f12-8e91-4756-8259-a64eb0c9374a)
 
 
 ### Tehtävä 7
-select co2_consumed
+select location
 from game
-where screen_name = "Ilkka";
+where screen_name = "vesa";
 ![Screenshot 2024-09-05 095643](https://github.com/user-attachments/assets/cdbe6d17-556e-49a9-a3c1-327ce11bd9dc)
 
 
 ### Tehtävä 8
-select distinct co2_budget
-from game;
+select co2_consumed
+from game
+where screen_name = "Ilkka";
 ![Screenshot 2024-09-05 095754](https://github.com/user-attachments/assets/86f704ba-cbee-4255-8ec7-bf0327c7d56c)
 
 
 ### Tehtävä 9
-select country.name as "country name", airport.name as "airport name"
-from country, airport
-where country.name = "Iceland" and airport.iso_country = country.iso_country;
+select distinct co2_budget
+from game;
 ![Screenshot 2024-09-05 095855](https://github.com/user-attachments/assets/f0b1f6f8-6540-4586-951f-26077e1b913c)
 
 
@@ -68,63 +68,59 @@ where country.name = "Iceland" and airport.iso_country = country.iso_country;
 # Where osan liitosehto harjoitukset
 
 ### Tehtävä 1
-select airport.name as "airport name"
-from airport, country
-where country.iso_country = airport.iso_country 
-and country.name = "France" and airport.type = "large_airport";
+select country.name as "country name", airport.name as "airport name"
+from country, airport
+where country.name = "Iceland" and airport.iso_country = country.iso_country;
 ![Screenshot 2024-09-05 100236](https://github.com/user-attachments/assets/398e58b5-0dd8-4619-8df2-fdcb1355f7f3)
 
 
 ### Tehtävä 2
-select country.name as "country_name", airport.name as "airport_name"
+select airport.name as "airport name"
 from airport, country
-where country.continent = "AN" and country.iso_country = airport.iso_country;
+where country.iso_country = airport.iso_country 
+and country.name = "France" and airport.type = "large_airport";
 ![Screenshot 2024-09-05 100434](https://github.com/user-attachments/assets/60ac6613-a06c-4e3a-82ed-22da1005f11b)
 
 ### Tehtävä 3
-select elevation_ft
-from airport, game
-where screen_name = "Heini" and airport.ident = game.location;
+select country.name as "country_name", airport.name as "airport_name"
+from airport, country
+where country.continent = "AN" and country.iso_country = airport.iso_country;
 ![Screenshot 2024-09-05 102403](https://github.com/user-attachments/assets/2a7de8cc-541a-4f40-80f6-cab493b0fe7c)
 
 
 ### Tehtävä 4
-select elevation_ft*0.3048 as "elevation_m"
+select elevation_ft
 from airport, game
 where screen_name = "Heini" and airport.ident = game.location;
 ![Screenshot 2024-09-05 102918](https://github.com/user-attachments/assets/fdf9e6ac-1b09-4653-bd4c-4392ffcf66f0)
 
 
 ### Tehtävä 5
-select airport.name
+select elevation_ft*0.3048 as "elevation_m"
 from airport, game
-where screen_name ="Ilkka" and airport.ident = game.location;
+where screen_name = "Heini" and airport.ident = game.location;
 ![Screenshot 2024-09-05 103042](https://github.com/user-attachments/assets/9dbf132c-a64a-4eff-9e67-1fed10d9682b)
 
 
 ### Tehtävä 6
-select country.name
-from airport, game, country
-where screen_name ="Ilkka" and airport.ident = game.location
-and airport.iso_country = country.iso_country;
+select airport.name
+from airport, game
+where screen_name ="Ilkka" and airport.ident = game.location;
 ![Screenshot 2024-09-05 103155](https://github.com/user-attachments/assets/2166cd3c-6f9e-4268-ba61-1c188fe622d7)
 
 
 ### Tehtävä 7
-select goal.name
-from goal, goal_reached, game
-where screen_name = "Heini" and game.id = game_id and goal.id = goal_id;
+select country.name
+from airport, game, country
+where screen_name ="Ilkka" and airport.ident = game.location
+and airport.iso_country = country.iso_country;
 ![Screenshot 2024-09-05 103427](https://github.com/user-attachments/assets/283ea497-2cfe-48c8-9b9f-a253f2830038)
 
 
 ### Tehtävä 8
-select country.name
-from goal, goal_reached, game, airport, country
-where screen_name = "Ilkka"
-and goal.name = "clouds"
-and game.id = game_id and goal.id = goal_id
-and game.location = airport.ident
-and airport.iso_country = country.iso_country;
+select goal.name
+from goal, goal_reached, game
+where screen_name = "Heini" and game.id = game_id and goal.id = goal_id;
 ![Screenshot 2024-09-05 103709](https://github.com/user-attachments/assets/bdea4e59-9987-46d3-919e-9fdd0f406d22)
 
 
@@ -136,8 +132,13 @@ where country.name = "Finland" and scheduled_service = "yes";
 ![Screenshot 2024-09-05 104133](https://github.com/user-attachments/assets/1cf60108-4996-4ee2-92f2-90439504defe)
 
 ### Tehtävä 10
-select screen_name, airport.name
-from game inner join airport on game.location = airport.ident;
+select country.name
+from goal, goal_reached, game, airport, country
+where screen_name = "Ilkka"
+and goal.name = "clouds"
+and game.id = game_id and goal.id = goal_id
+and game.location = airport.ident
+and airport.iso_country = country.iso_country;
 ![Screenshot 2024-09-05 104320](https://github.com/user-attachments/assets/bd5615de-405f-45e9-a083-b005d0e9cdd5)
 
 
