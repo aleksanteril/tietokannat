@@ -2,22 +2,22 @@
 
 Yhteen tauluun kohdistuvat kyselyt
 ### Tehtävä 1
-![Screenshot 2024-09-05 141136](https://github.com/user-attachments/assets/b8b75cec-5f78-4823-bdb6-15bcf8e60ad0)
+![Screenshot 2024-09-05 141244](https://github.com/user-attachments/assets/7df6a4d7-e24f-4239-ab3f-7c64c32e8526)
 
 ### Tehtävä 2
-![Screenshot 2024-09-05 141008](https://github.com/user-attachments/assets/8edbaf10-15b8-4def-8344-e22f2e2b96ee)
+![Screenshot 2024-09-05 094053](https://github.com/user-attachments/assets/6fe8b9a0-6f95-4696-b4b5-2a5d97a74ff4)
 
 ### Tehtävä 3
-![Screenshot 2024-09-05 140112](https://github.com/user-attachments/assets/be199936-b729-49b4-8928-c7118594dac6)
+![Screenshot 2024-09-05 094712](https://github.com/user-attachments/assets/4b9a1843-4c9a-4eea-be75-47491cc312d2)
 
 ### Tehtävä 4
-![Screenshot 2024-09-05 135905](https://github.com/user-attachments/assets/61eb10ba-7a14-4b44-818d-fba1e5005ff7)
+![Screenshot 2024-09-05 095000](https://github.com/user-attachments/assets/2eb0eb0c-3df5-4ce4-b121-41ea8e90cf98)
 
 ### Tehtävä 5
-![Screenshot 2024-09-05 135714](https://github.com/user-attachments/assets/107b4dae-760a-4f0d-ade0-8ec78c5ec03e)
+![Screenshot 2024-09-05 095231](https://github.com/user-attachments/assets/801a01fe-bc90-4f26-a124-7a544bfd6a25)
 
 ### Tehtävä 6
-![Screenshot 2024-09-05 135510](https://github.com/user-attachments/assets/57f683e4-25ff-4df8-9423-bc86022c46af)
+![Screenshot 2024-09-05 095334](https://github.com/user-attachments/assets/bcab7829-3cf2-428e-9b6e-073e6183f5e2)
 
 ### Tehtävä 7
 ![Screenshot 2024-09-05 135026](https://github.com/user-attachments/assets/3af6a664-0292-4a23-bb5a-ec7890178bbe)
@@ -114,20 +114,20 @@ Koostetietokyselyt
 ![Screenshot 2024-09-05 095433](https://github.com/user-attachments/assets/96cbe0b5-2033-4dad-b32e-7abbdde48b2c)
 
 ### Tehtävä 8
-![Screenshot 2024-09-05 095334](https://github.com/user-attachments/assets/bcab7829-3cf2-428e-9b6e-073e6183f5e2)
+![Screenshot 2024-09-05 135510](https://github.com/user-attachments/assets/57f683e4-25ff-4df8-9423-bc86022c46af)
+
 
 ### Tehtävä 9
-![Screenshot 2024-09-05 095231](https://github.com/user-attachments/assets/801a01fe-bc90-4f26-a124-7a544bfd6a25)
+![Screenshot 2024-09-05 135714](https://github.com/user-attachments/assets/107b4dae-760a-4f0d-ade0-8ec78c5ec03e)
 
 ### Tehtävä 10
-![Screenshot 2024-09-05 095000](https://github.com/user-attachments/assets/2eb0eb0c-3df5-4ce4-b121-41ea8e90cf98)
+![Screenshot 2024-09-05 135905](https://github.com/user-attachments/assets/61eb10ba-7a14-4b44-818d-fba1e5005ff7)
 
 Päivitystietokyselyt
 ### Tehtävä 1
-![Screenshot 2024-09-05 094712](https://github.com/user-attachments/assets/4b9a1843-4c9a-4eea-be75-47491cc312d2)
+![Screenshot 2024-09-05 140112](https://github.com/user-attachments/assets/be199936-b729-49b4-8928-c7118594dac6)
 
 ### Tehtävä 3
-![Screenshot 2024-09-05 094053](https://github.com/user-attachments/assets/6fe8b9a0-6f95-4696-b4b5-2a5d97a74ff4)
-
+![Screenshot 2024-09-05 141008](https://github.com/user-attachments/assets/8edbaf10-15b8-4def-8344-e22f2e2b96ee)
 ### Tehtävä 4
-![Screenshot 2024-09-05 141244](https://github.com/user-attachments/assets/7df6a4d7-e24f-4239-ab3f-7c64c32e8526)
+![Screenshot 2024-09-05 141136](https://github.com/user-attachments/assets/b8b75cec-5f78-4823-bdb6-15bcf8e60ad0)
