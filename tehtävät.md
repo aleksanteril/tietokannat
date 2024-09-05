@@ -10,7 +10,7 @@ select * from goal;
 
 
 ### Tehtävä 2
-```
+```sql
 select airport.name, airport.type
 from airport
 where airport.iso_country = "FI"; 
@@ -19,7 +19,7 @@ where airport.iso_country = "FI";
 
 
 ### Tehtävä 3
-```
+```sql
 select name
 from airport
 where iso_country = "FI"
@@ -29,7 +29,7 @@ order by name asc;
 
 
 ### Tehtävä 4
-```
+```sql
 select name, type
 from airport
 where iso_country = "FI"
@@ -39,7 +39,7 @@ order by type, name asc;
 
 
 ### Tehtävä 5
-```
+```sql
 select name
 from country
 where name like "F%";
@@ -48,7 +48,7 @@ where name like "F%";
 
 
 ### Tehtävä 6
-```
+```sql
 select name
 from country
 where name like "%F%";
@@ -57,7 +57,7 @@ where name like "%F%";
 
 
 ### Tehtävä 7
-```
+```sql
 select location
 from game
 where screen_name = "vesa";
@@ -66,7 +66,7 @@ where screen_name = "vesa";
 
 
 ### Tehtävä 8
-```
+```sql
 select co2_consumed
 from game
 where screen_name = "Ilkka";
@@ -75,7 +75,7 @@ where screen_name = "Ilkka";
 
 
 ### Tehtävä 9
-```
+```sql
 select distinct co2_budget
 from game;
 ```
@@ -86,7 +86,7 @@ from game;
 # Where osan liitosehto harjoitukset
 
 ### Tehtävä 1
-```
+```sql
 select country.name as "country name", airport.name as "airport name"
 from country, airport
 where country.name = "Iceland" and airport.iso_country = country.iso_country;
@@ -95,7 +95,7 @@ where country.name = "Iceland" and airport.iso_country = country.iso_country;
 
 
 ### Tehtävä 2
-```
+```sql
 select airport.name as "airport name"
 from airport, country
 where country.iso_country = airport.iso_country 
@@ -104,7 +104,7 @@ and country.name = "France" and airport.type = "large_airport";
 ![Screenshot 2024-09-05 100434](https://github.com/user-attachments/assets/60ac6613-a06c-4e3a-82ed-22da1005f11b)
 
 ### Tehtävä 3
-```
+```sql
 select country.name as "country_name", airport.name as "airport_name"
 from airport, country
 where country.continent = "AN" and country.iso_country = airport.iso_country;
@@ -113,7 +113,7 @@ where country.continent = "AN" and country.iso_country = airport.iso_country;
 
 
 ### Tehtävä 4
-```
+```sql
 select elevation_ft
 from airport, game
 where screen_name = "Heini" and airport.ident = game.location;
@@ -122,7 +122,7 @@ where screen_name = "Heini" and airport.ident = game.location;
 
 
 ### Tehtävä 5
-```
+```sql
 select elevation_ft*0.3048 as "elevation_m"
 from airport, game
 where screen_name = "Heini" and airport.ident = game.location;
@@ -131,7 +131,7 @@ where screen_name = "Heini" and airport.ident = game.location;
 
 
 ### Tehtävä 6
-```
+```sql
 select airport.name
 from airport, game
 where screen_name ="Ilkka" and airport.ident = game.location;
@@ -140,7 +140,7 @@ where screen_name ="Ilkka" and airport.ident = game.location;
 
 
 ### Tehtävä 7
-```
+```sql
 select country.name
 from airport, game, country
 where screen_name ="Ilkka" and airport.ident = game.location
@@ -150,7 +150,7 @@ and airport.iso_country = country.iso_country;
 
 
 ### Tehtävä 8
-```
+```sql
 select goal.name
 from goal, goal_reached, game
 where screen_name = "Heini" and game.id = game_id and goal.id = goal_id;
@@ -159,7 +159,7 @@ where screen_name = "Heini" and game.id = game_id and goal.id = goal_id;
 
 
 ### Tehtävä 9
-```
+```sql
 select airport.name
 from goal, goal_reached, game, airport
 where screen_name = "Ilkka"
@@ -170,7 +170,7 @@ and game.location = airport.ident;
 ![Screenshot 2024-09-05 104133](https://github.com/user-attachments/assets/1cf60108-4996-4ee2-92f2-90439504defe)
 
 ### Tehtävä 10
-```
+```sql
 select country.name
 from goal, goal_reached, game, airport, country
 where screen_name = "Ilkka"
@@ -186,7 +186,7 @@ and airport.iso_country = country.iso_country;
 # Join kysely harjoitukset
 
 ### Tehtävä 1
-```
+```sql
 select country.name as "country name", airport.name as "airport name"
 from airport
 inner join country on airport.iso_country = country.iso_country
@@ -196,7 +196,7 @@ where country.name = "Finland" and scheduled_service = "yes";
 
 
 ### Tehtävä 2
-```
+```sql
 select screen_name, airport.name
 from game inner join airport on game.location = airport.ident;
 ```
@@ -204,7 +204,7 @@ from game inner join airport on game.location = airport.ident;
 
 
 ### Tehtävä 3
-```
+```sql
 select screen_name, country.name
 from game inner join airport on game.location = airport.ident
 inner join country on country.iso_country = airport.iso_country;
@@ -213,7 +213,7 @@ inner join country on country.iso_country = airport.iso_country;
 
 
 ### Tehtävä 4
-```
+```sql
 select airport.name, game.screen_name
 from airport left join game on airport.ident = game.location
 where airport.name like "%Hels%";
@@ -222,7 +222,7 @@ where airport.name like "%Hels%";
 
 
 ### Tehtävä 5
-```
+```sql
 select goal.name, screen_name
 from goal left join goal_reached on goal.id = goal_id 
 left join game on game.id = game_id;
@@ -234,7 +234,7 @@ left join game on game.id = game_id;
 # Sisäkysely harjoitukset
 
 ### Tehtävä 1
-```
+```sql
 select country.name
 from country
 where iso_country = (
@@ -246,7 +246,7 @@ where iso_country = (
 
 
 ### Tehtävä 2
-```
+```sql
 select airport.name
 from airport
 where iso_country = (
@@ -258,7 +258,7 @@ where iso_country = (
 
 
 ### Tehtävä 3
-```
+```sql
 select screen_name
 from game
 where id in (
@@ -272,7 +272,7 @@ where id in (
 ![Screenshot 2024-09-05 113338](https://github.com/user-attachments/assets/0d2f1a64-237d-4b93-8748-b23c96e756dc)
 
 ### Tehtävä 4
-```
+```sql
 select country.name
 from country
 where iso_country not in (
@@ -283,7 +283,7 @@ where iso_country not in (
 
 
 ### Tehtävä 5
-```
+```sql
 select goal.name
 from goal
 where id not in(
@@ -301,7 +301,7 @@ where id not in(
 # Koostetietokyselyt
 
 ### Tehtävä 1
-```
+```sql
 select max(elevation_ft)
 from airport;
 ```
@@ -309,7 +309,7 @@ from airport;
 
 
 ### Tehtävä 2
-```
+```sql
 select country.continent, count(*)
 from country
 group by continent;
@@ -318,7 +318,7 @@ group by continent;
 
 
 ### Tehtävä 3
-```
+```sql
 select screen_name, count(*)
 from game, goal_reached
 where id = game_id
@@ -328,7 +328,7 @@ group by screen_name;
 
 
 ### Tehtävä 4
-```
+```sql
 select screen_name
 from game
 where co2_consumed in(
@@ -339,7 +339,7 @@ where co2_consumed in(
 
 
 ### Tehtävä 5
-```
+```sql
 select country.name, count(*)
 from country, airport
 where airport.iso_country = country.iso_country
@@ -351,7 +351,7 @@ limit 50;
 
 
 ### Tehtävä 6
-```
+```sql
 select country.name
 from country, airport
 where airport.iso_country = country.iso_country 
@@ -361,7 +361,7 @@ group by country.iso_country having count(*) > 1000;
 
 
 ### Tehtävä 7
-```
+```sql
 select name
 from airport
 where elevation_ft in(
@@ -372,7 +372,7 @@ where elevation_ft in(
 
 
 ### Tehtävä 8
-```
+```sql
 select name
 from country
 where iso_country in(
@@ -386,7 +386,7 @@ where iso_country in(
 
 
 ### Tehtävä 9
-```
+```sql
 select count(*)
 from goal_reached
 where game_id in(
@@ -397,7 +397,7 @@ where game_id in(
 ![Screenshot 2024-09-05 135905](https://github.com/user-attachments/assets/6f45c76b-2a8e-4c3f-98c3-abeb2e5e5bf1)
 
 ### Tehtävä 10
-```
+```sql
 select name
 from airport
 where latitude_deg in(
@@ -411,7 +411,7 @@ where latitude_deg in(
 # Päivityskyselyt
 
 ### Tehtävä 1
-```
+```sql
 update game
 set co2_consumed = co2_consumed + 500,
 location = (
@@ -424,7 +424,7 @@ where screen_name = "Vesa";
 
 
 ### Tehtävä 3
-```
+```sql
 delete from goal_reached;
 select from goal_reached;
 ```
@@ -432,7 +432,7 @@ select from goal_reached;
 
 
 ### Tehtävä 4
-```
+```sql
 delete from game;
 select from game;
 ```
