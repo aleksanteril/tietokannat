@@ -1,43 +1,224 @@
 
-![Screenshot 2024-09-05 095231](https://github.com/user-attachments/assets/d0673b4e-7ab3-4b27-bb97-6e5d1b930294)
-![Screenshot 2024-09-05 095000](https://github.com/user-attachments/assets/91e4c3de-834e-4943-9bb3-28f104b5f22c)
-![Screenshot 2024-09-05 094712](https://github.com/user-attachments/assets/12f10a41-e058-47ee-8888-f1d16a465554)
-![Screenshot 2024-09-05 094053](https://github.com/user-attachments/assets/60d4786a-cbff-4064-a6fb-619b57ede448)
-![Screenshot 2024-09-05 141244](https://github.com/user-attachments/assets/9472f8d0-0070-43d6-8f2e-71e92c4838e4)
-![Screenshot 2024-09-05 141136](https://github.com/user-attachments/assets/a43d3580-8939-4be9-a117-ce5b170c1df2)
-![Screenshot 2024-09-05 141008](https://github.com/user-attachments/assets/2f1a68aa-d47f-458a-8744-8f252c9485a0)
-![Screenshot 2024-09-05 140112](https://github.com/user-attachments/assets/8b71bfe9-a1cb-467f-923f-870d016eca93)
-![Screenshot 2024-09-05 135905](https://github.com/user-attachments/assets/42544396-d63e-4c4d-b17d-487d910119b1)
-![Screenshot 2024-09-05 135714](https://github.com/user-attachments/assets/c7e34502-a3a9-4956-91a5-709f6b37941a)
-![Screenshot 2024-09-05 135510](https://github.com/user-attachments/assets/3815d575-d0fc-4a1b-99f6-9b2e0628cd2c)
-![Screenshot 2024-09-05 135026](https://github.com/user-attachments/assets/69a7f20b-4c50-48fa-9c6f-540fb9959e53)
-![Screenshot 2024-09-05 134559](https://github.com/user-attachments/assets/9fe09e32-6f4f-4f5a-976a-558c26f0d9f8)
-![Screenshot 2024-09-05 133513](https://github.com/user-attachments/assets/abcc6bac-bc7e-47cc-b28f-f26112890fc0)
-![Screenshot 2024-09-05 133412](https://github.com/user-attachments/assets/9bdffaea-1cdb-4391-8a90-929741ac468b)
-![Screenshot 2024-09-05 132834](https://github.com/user-attachments/assets/bef972fd-4ce5-4f65-ba00-576eec930e3f)
-![Screenshot 2024-09-05 132158](https://github.com/user-attachments/assets/3753761d-4e8b-4b5a-887c-912e83a6ab77)
-![Screenshot 2024-09-05 113609](https://github.com/user-attachments/assets/a5b31132-69af-47b4-a668-54f27ca757ff)
-![Screenshot 2024-09-05 113428](https://github.com/user-attachments/assets/f0097e64-d366-415d-9f24-2d70ff7be055)
-![Screenshot 2024-09-05 113338](https://github.com/user-attachments/assets/99140a98-0131-48ad-a1bd-fbd5527fc0cd)
-![Screenshot 2024-09-05 112821](https://github.com/user-attachments/assets/3b0dc3c5-11fe-4466-a357-ed59ff766095)
-![Screenshot 2024-09-05 112624](https://github.com/user-attachments/assets/e7bde520-4eb5-45d6-9785-3fcb4e9a6c02)
-![Screenshot 2024-09-05 111338](https://github.com/user-attachments/assets/d3eff264-97b3-49ac-9ff3-634a29cee83f)
-![Screenshot 2024-09-05 110800](https://github.com/user-attachments/assets/15c132e0-d1be-4e5e-881d-c42157b7fee9)
-![Screenshot 2024-09-05 110225](https://github.com/user-attachments/assets/9b9d36f1-f5f5-4a1b-885c-f430dba3f315)
-![Screenshot 2024-09-05 110126](https://github.com/user-attachments/assets/9e264955-a674-42e3-a62e-6ff47f827a1b)
-![Screenshot 2024-09-05 110012](https://github.com/user-attachments/assets/7caedb34-d63c-4529-856a-1e71b61474a9)
-![Screenshot 2024-09-05 104320](https://github.com/user-attachments/assets/5edb1a73-3b87-453b-83eb-1c9a66c1a399)
-![Screenshot 2024-09-05 104133](https://github.com/user-attachments/assets/29129c15-800e-4ea4-a9ef-5dc76f6f514b)
-![Screenshot 2024-09-05 103709](https://github.com/user-attachments/assets/04b20687-f5cd-412c-acbe-01d8aa39397a)
-![Screenshot 2024-09-05 103427](https://github.com/user-attachments/assets/46d2765c-27a1-43d8-af93-63ea13ce934b)
-![Screenshot 2024-09-05 103155](https://github.com/user-attachments/assets/33f33d9e-b0ee-407e-86b0-a73063219c37)
-![Screenshot 2024-09-05 103042](https://github.com/user-attachments/assets/d81e71aa-4785-4293-9253-a2850105cc04)
-![Screenshot 2024-09-05 102918](https://github.com/user-attachments/assets/b6158a6c-5c5d-4ec5-bb52-e1e366f8e667)
-![Screenshot 2024-09-05 102403](https://github.com/user-attachments/assets/a56e4c78-689a-4eae-8c3e-1f2cc1dc4916)
-![Screenshot 2024-09-05 100434](https://github.com/user-attachments/assets/f801f5a2-014d-41df-a8be-be796fcf58b1)
-![Screenshot 2024-09-05 100236](https://github.com/user-attachments/assets/a0988ffd-f0f4-4ba8-9d08-86af005b2d9d)
-![Screenshot 2024-09-05 095855](https://github.com/user-attachments/assets/6aacc0e7-8787-46d6-81bf-4f1f28c5dd4c)
-![Screenshot 2024-09-05 095754](https://github.com/user-attachments/assets/577761b8-1e0c-4922-bef9-f9c46f8ee3c6)
-![Screenshot 2024-09-05 095643](https://github.com/user-attachments/assets/d69ce58a-8045-4e85-a773-0dc4fac01a6e)
-![Screenshot 2024-09-05 095433](https://github.com/user-attachments/assets/a226471f-3ca9-4c72-8f5c-4d08277e4941)
-![Screenshot 2024-09-05 095334](https://github.com/user-attachments/assets/fe49649e-8315-4900-b3b1-b039505a4f1e)
+
+# Yhteen tauluun kohdistuvat kyselyt
+
+### Tehtävä 1
+SELECT * FROM esimerkki 
+![Screenshot 2024-09-05 094053](https://github.com/user-attachments/assets/a59400f0-ff4d-4822-b170-1e4964039e24)
+
+
+### Tehtävä 2
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 094712](https://github.com/user-attachments/assets/d9eda852-6587-4955-b94f-fb092ae51b2a)
+
+
+### Tehtävä 3
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095000](https://github.com/user-attachments/assets/331be0e8-2bcd-43b9-bba2-35ad37e85505)
+
+
+### Tehtävä 4
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095231](https://github.com/user-attachments/assets/abaa4de7-139f-4a3e-a2c7-1054b9fe3448)
+
+
+### Tehtävä 5
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095334](https://github.com/user-attachments/assets/a53c2ba2-8a58-49e4-86dd-bab6374dc364)
+
+
+### Tehtävä 6
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095433](https://github.com/user-attachments/assets/0b3b1f12-8e91-4756-8259-a64eb0c9374a)
+
+
+### Tehtävä 7
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095643](https://github.com/user-attachments/assets/cdbe6d17-556e-49a9-a3c1-327ce11bd9dc)
+
+
+### Tehtävä 8
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095754](https://github.com/user-attachments/assets/86f704ba-cbee-4255-8ec7-bf0327c7d56c)
+
+
+### Tehtävä 9
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 095855](https://github.com/user-attachments/assets/f0b1f6f8-6540-4586-951f-26077e1b913c)
+
+
+########################################
+# Where osan liitosehto harjoitukset
+
+### Tehtävä 1
+SELECT * FROM esimerkki 
+![Screenshot 2024-09-05 100236](https://github.com/user-attachments/assets/398e58b5-0dd8-4619-8df2-fdcb1355f7f3)
+
+
+### Tehtävä 2
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 100434](https://github.com/user-attachments/assets/60ac6613-a06c-4e3a-82ed-22da1005f11b)
+
+### Tehtävä 3
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 102403](https://github.com/user-attachments/assets/2a7de8cc-541a-4f40-80f6-cab493b0fe7c)
+
+
+### Tehtävä 4
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 102918](https://github.com/user-attachments/assets/fdf9e6ac-1b09-4653-bd4c-4392ffcf66f0)
+
+
+### Tehtävä 5
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 103042](https://github.com/user-attachments/assets/9dbf132c-a64a-4eff-9e67-1fed10d9682b)
+
+
+### Tehtävä 6
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 103155](https://github.com/user-attachments/assets/2166cd3c-6f9e-4268-ba61-1c188fe622d7)
+
+
+### Tehtävä 7
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 103427](https://github.com/user-attachments/assets/283ea497-2cfe-48c8-9b9f-a253f2830038)
+
+
+### Tehtävä 8
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 103709](https://github.com/user-attachments/assets/bdea4e59-9987-46d3-919e-9fdd0f406d22)
+
+
+### Tehtävä 9
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 104133](https://github.com/user-attachments/assets/1cf60108-4996-4ee2-92f2-90439504defe)
+
+### Tehtävä 10
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 104320](https://github.com/user-attachments/assets/bd5615de-405f-45e9-a083-b005d0e9cdd5)
+
+
+########################################
+# Join kysely harjoitukset
+
+### Tehtävä 1
+SELECT * FROM esimerkki 
+![Screenshot 2024-09-05 110012](https://github.com/user-attachments/assets/4fe3e108-a404-4588-b71e-6bbc258163ad)
+
+
+### Tehtävä 2
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 110126](https://github.com/user-attachments/assets/ee335bff-98b3-49b5-80e4-ff881bc6b05d)
+
+
+### Tehtävä 3
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 110225](https://github.com/user-attachments/assets/4cdb42bb-e261-4fe8-b092-657298ca2e54)
+
+
+### Tehtävä 4
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 110800](https://github.com/user-attachments/assets/e0c80156-4ab8-4239-af59-2a417704823f)
+
+
+### Tehtävä 5
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 111338](https://github.com/user-attachments/assets/47119086-1f70-4228-8954-da29306d61a3)
+
+
+########################################
+# Sisäkysely harjoitukset
+
+### Tehtävä 1
+SELECT * FROM esimerkki 
+![Screenshot 2024-09-05 112624](https://github.com/user-attachments/assets/254bf584-0b4c-433e-bf1e-0a0737bd5897)
+
+
+### Tehtävä 2
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 112821](https://github.com/user-attachments/assets/4be3c359-5a1d-4c09-852f-ee6eefa4c6b9)
+
+
+### Tehtävä 3
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 113338](https://github.com/user-attachments/assets/0d2f1a64-237d-4b93-8748-b23c96e756dc)
+
+### Tehtävä 4
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 113428](https://github.com/user-attachments/assets/cdf80f47-5078-47c8-83dc-4384e379a49d)
+
+
+### Tehtävä 5
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 113609](https://github.com/user-attachments/assets/94d3ce69-3926-4670-9cb6-8dc2c83cd2e7)
+
+
+########################################
+# Koostetietokyselyt
+
+### Tehtävä 1
+SELECT * FROM esimerkki 
+![Screenshot 2024-09-05 132158](https://github.com/user-attachments/assets/68df5fc6-d7b8-4df4-a3d0-d96e42d20b4d)
+
+
+### Tehtävä 2
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 132834](https://github.com/user-attachments/assets/f1341611-3c2e-42a8-a569-46d9c3649a36)
+
+
+### Tehtävä 3
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 133412](https://github.com/user-attachments/assets/3a199c5a-bf12-4978-9ea5-981d0c7805b3)
+
+
+### Tehtävä 4
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 133513](https://github.com/user-attachments/assets/6ed14fb6-1c0a-492d-994c-5c073e83579d)
+
+
+### Tehtävä 5
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 134559](https://github.com/user-attachments/assets/b6651f43-5824-491d-87a3-73d0ba1253e8)
+
+
+### Tehtävä 6
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 135026](https://github.com/user-attachments/assets/b4bbb846-910a-4fca-861f-89376af5a4fa)
+
+
+### Tehtävä 7
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 135510](https://github.com/user-attachments/assets/39794363-1bdf-4c48-bf78-c6124c3c088f)
+
+
+### Tehtävä 8
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 135714](https://github.com/user-attachments/assets/995261c7-172c-4954-9ebe-f13703943b5a)
+
+
+### Tehtävä 9
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 135905](https://github.com/user-attachments/assets/6f45c76b-2a8e-4c3f-98c3-abeb2e5e5bf1)
+
+### Tehtävä 10
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 140112](https://github.com/user-attachments/assets/ab774d23-859b-49c5-8c3c-069fdbdd4e7f)
+
+
+########################################
+# Päivityskyselyt
+
+### Tehtävä 1
+SELECT * FROM esimerkki 
+![Screenshot 2024-09-05 141008](https://github.com/user-attachments/assets/8998370d-4234-43e1-8d03-c41136b8b161)
+
+
+### Tehtävä 3
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 141136](https://github.com/user-attachments/assets/b7e1103c-71c4-4a18-a766-ab3fe4100055)
+
+
+### Tehtävä 4
+SELECT * FROM esimerkki WHERE kentta = 'arvo' 
+![Screenshot 2024-09-05 141244](https://github.com/user-attachments/assets/2457adf9-b09f-40e2-8cff-cc148ec94d12)
+
