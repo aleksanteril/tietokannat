@@ -128,5 +128,6 @@ Päivitystietokyselyt
 
 ### Tehtävä 3
 ![Screenshot 2024-09-05 094053](https://github.com/user-attachments/assets/6fe8b9a0-6f95-4696-b4b5-2a5d97a74ff4)
+
 ### Tehtävä 4
 ![Screenshot 2024-09-05 141244](https://github.com/user-attachments/assets/7df6a4d7-e24f-4239-ab3f-7c64c32e8526)
